@@ -12,17 +12,22 @@ Jestem uczniem technikum na kierunku programistycznym 🤓<br>Szybko uczę się 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PerzotProgrammer&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PerzotProgrammer&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!--
 ## 🏆 GitHubowe Trofea
 
 ![](https://github-profile-trophy.vercel.app/?username=PerzotProgrammer&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
+-->
 
 ### ✍️ Losowy Cytat Dewelopera
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+<!--
+
 ### 🔝 Top Kontrybucji w Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=PerzotProgrammer&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+-->
 
 ---
 
