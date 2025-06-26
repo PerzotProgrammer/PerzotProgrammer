@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am a student at a technical school majoring in programming 🤓<br>I learn new technologies quickly 📖<br>I would like to become a software engineer 🖥️<br>As a hobby, I create games in Unity 🎮
+I am a student at a technical school majoring in programming 🤓<br>I learn new technologies quickly 📖<br>I would like to become a software engineer 🖥️<br>As a hobby, I create games in Unity 🎮<br><b>Right now I am employed in Android Mobile App Development using Kontlin with Jetpack Compose 📱</b>
 
 # 💻 Tech Stack:
 

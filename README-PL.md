@@ -1,6 +1,6 @@
 # 💫 O mnie:
 
-Jestem uczniem technikum na kierunku programistycznym 🤓<br>Szybko uczę się nowych technologii 📖<br>Chciałbym zostać inżynierem oprogramowania 🖥️<br>Hobbystycznie, tworzę gry w Unity 🎮
+Jestem uczniem technikum na kierunku programistycznym 🤓<br>Szybko uczę się nowych technologii 📖<br>Chciałbym zostać inżynierem oprogramowania 🖥️<br>Hobbystycznie, tworzę gry w Unity 🎮<br><b>Aktualnie jestem zatrudniony w rozwijaniu aplikacji mobilnych systemu android z użyciem Kotlina i Jetpack Compose 📱</b>
 
 # 💻 Tech Stack:
 
